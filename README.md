@@ -6,4 +6,4 @@
 - 🛠️ E ferramentas como Postman, Swagger e Figma para Testes, Documentação e Prototipação 
 - 💻 Também atuo como arquiteto em projetos utilizando copilot e power plataforma e faço freelas para criação de sites usando wordpress e elementor
 
-- Pode me chamar no linkedin :) https://www.linkedin.com/in/klissio/
+Pode me chamar no linkedin :) https://www.linkedin.com/in/klissio/
